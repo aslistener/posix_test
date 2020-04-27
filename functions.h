@@ -13,4 +13,6 @@ using namespace std;
 
 void test_fork();
 
+void MutexTest();
+
 

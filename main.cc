@@ -2,6 +2,6 @@
 
 int main() {
 
-  test_fork();
+  MutexTest();
   return 0;
 }
