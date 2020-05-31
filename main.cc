@@ -2,6 +2,6 @@
 
 int main() {
 
-  MutexTest();
+  PipeTest();
   return 0;
 }

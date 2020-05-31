@@ -23,7 +23,7 @@ static pthread_cond_t condition_;
 */
 
 
-void test_fork(){
+void ForkTest(){
   int count = 0; 
   PRINT_VAL_MSG(++g_count, "before fork");
   PRINT_VAL_MSG(++count, "before fork");
